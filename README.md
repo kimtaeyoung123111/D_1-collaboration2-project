@@ -11,14 +11,14 @@
 
 ### 1-1. 시스템 설계도 (System Architecture)
 <p align="center">
-  <img src="./images/system_design.png" alt="시스템 설계도 이미지" width="400">
+  <img src="./src/images/system_design.png" alt="시스템 설계도 이미지" width="400">
 </p>
 
 * *설명: 로봇 제어 PC와 Web Hub PC가 분리되어 구동되며, ROS2 토픽 통신으로 센서 데이터와 제어 신호를 주고받는 아키텍처입니다.*
 
 ### 1-2. 플로우 차트 (Flow Chart)
 <p align="center">
-  <img src="./images/flow_chart.png" alt="플로우 차트 이미지" width="300" height="300">
+  <img src="./src/images/flow_chart.png" alt="플로우 차트 이미지" width="300" height="300">
 </p>
 
 * *설명: [음성 주문(STT) ➡️ 박스 탐색 ➡️ 상품 탐색(ROI & 2-Step 검증) ➡️ 적응형 파지 ➡️ 충돌 회피 적재 ➡️ 박스 정렬(Shaking) ➡️ 교체] 로 이어지는 무한 루프 자동화 프로세스입니다.*

@@ -109,5 +109,5 @@ python3 src/pick_test/ros_nodes/get_keyword.py
 python3 src/pick_test/app.py
 ```
 
-
+### 최종 시연 영상
 [로봇 구동 영상 보러가기](https://www.youtube.com/watch?v=QZYudQDQ04Y)

@@ -108,3 +108,6 @@ python3 src/pick_test/ros_nodes/get_keyword.py
 # Step 3. 웹 서버(POS) 실행
 python3 src/pick_test/app.py
 ```
+
+
+[![로봇 구동 영상 보러가기](https://www.youtube.com/watch?v=QZYudQDQ04Y)
